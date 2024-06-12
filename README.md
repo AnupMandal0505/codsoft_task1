@@ -76,13 +76,6 @@ class, fare, cabin, and whether or not they survived.
     ```
 
 
- 10. Open CMD:
-
-    ```bash
-    jupyter notebook
-    ```
-
-
 ## Technologies Used
 
 - **Jupyter Notebook**
