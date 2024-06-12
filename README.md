@@ -16,7 +16,7 @@ class, fare, cabin, and whether or not they survived.
 1. Clone the repository:
 
     ```bash
-    https://github.com/AnupMandal0505/MyWin11.git
+    https://github.com/AnupMandal0505/codsoft_task1.git
     ```
 
 2. Navigate to the project directory:
@@ -51,37 +51,31 @@ class, fare, cabin, and whether or not they survived.
     ```
 
 
-6. Install python:
+7. Install sklearn:
 
     ```bash
    pip install sklearn
     ```
 
-6. Install python:
+8. Install matplotlib:
 
     ```bash
    pip install matplotlib
     ```
 
-6. Install python:
+9. Install seaborn:
 
     ```bash
-   pip install python
-    ```
-
-    
-7.Open CMD:
-
-    ```bash
-    jupyter notebook
+   pip install seaborn
     ```
 
 
-5. Use:
+ 10. Open CMD:
 
     ```bash
-    https://mywin11.onrender.com/Api/MyWin11
+   jupyter notebook
     ```
+
 
 ## Technologies Used
 
@@ -90,4 +84,8 @@ class, fare, cabin, and whether or not they survived.
 - **Pandas**
 - **Numpy**
 - **Machine Learning**
+- **Sklearn**
+- **Seaborn**
+- **Matplotlib**
+
 
