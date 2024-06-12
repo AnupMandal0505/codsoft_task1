@@ -73,7 +73,7 @@ class, fare, cabin, and whether or not they survived.
  10. Open CMD:
 
     ```bash
-   jupyter notebook
+    jupyter notebook
     ```
 
 
