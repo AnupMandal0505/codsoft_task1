@@ -68,6 +68,12 @@ class, fare, cabin, and whether or not they survived.
     ```bash
    pip install seaborn
     ```
+    
+9. Open CMD:
+
+    ```bash
+   jupyter notebook
+    ```
 
 
  10. Open CMD:
